@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://baderibocia.pages.dev/sitemap.xml
